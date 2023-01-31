@@ -1,6 +1,6 @@
 # BlockChain Examples Markdown File
 
-Currently, there is only the C# example in this repository but soon, very soon, there will be more implementations. I am working on creating example implementations in python, javascript, and potentially Ruby on Rails as well.
+Currently, there are multiple implementaations of example blockchains in various languages such as C#, C++, and go. I am working on creating example implementations in python, javascript, and other languages.
 
 Keep watching this space for updates!
 
